@@ -1,8 +1,10 @@
 # Welcome to the Morehouse Supercomputing Facility (MSCF)
 
-The **Morehouse Supercomputing Facility** provides high-performance computing resources to faculty, staff, and students at [Morehouse College](https://morehouse.edu) and across the [Atlanta University Center](https://en.wikipedia.org/wiki/Atlanta_University_Center). We are building our own supercomputing infrastructure while partnering with the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/) to provide immediate access to world-class HPC systems.
+The **Morehouse Supercomputing Facility** is a high-performance computing center based at [Morehouse College](https://morehouse.edu) in Atlanta, GA. We provide HPC resources, training, and support to researchers, educators, and students -- with a focus on [Morehouse College](https://morehouse.edu) and the [Atlanta University Center](https://en.wikipedia.org/wiki/Atlanta_University_Center), and open to collaborators and institutions who need access to computational power.
 
-Our mission is to lower the barrier to computational research and teaching at HBCUs by providing the tools, training, and support researchers need to do their best work.
+We are building our own supercomputing infrastructure while partnering with the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/) to provide immediate access to world-class HPC systems.
+
+Whether you're a faculty member integrating HPC into your coursework, a student running your first simulation, or a researcher at another institution looking for compute -- we're here to help.
 
 ---
 
@@ -34,7 +36,7 @@ MSCF researchers currently have access to:
 
 ## Contact
 
-Have questions or need access? Reach out:
+Whether you're part of the AUC community or an external researcher looking for HPC access, we'd love to hear from you:
 
 - **Ashley Scruse, Ph.D.** -- Deputy Director, Morehouse Supercomputing Facility
 - **Email:** [ashley.scruse@morehouse.edu](mailto:ashley.scruse@morehouse.edu)
