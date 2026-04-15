@@ -1,6 +1,6 @@
 # Welcome to the Morehouse Supercomputing Facility (MSCF)
 
-The **Morehouse Supercomputing Facility** is a high-performance computing center based at [Morehouse College](https://morehouse.edu) in Atlanta, GA. We provide HPC resources, training, and support to researchers, educators, and students -- with a focus on [Morehouse College](https://morehouse.edu) and the [Atlanta University Center](https://en.wikipedia.org/wiki/Atlanta_University_Center), and open to collaborators and institutions who need access to computational power.
+The **Morehouse Supercomputing Facility** is a high-performance computing center based at [Morehouse College](https://morehouse.edu) in Atlanta, GA. We provide HPC resources, training, and support to researchers, educators, and students -- with a focus on [Morehouse College](https://morehouse.edu) and the Atlanta University Center, and open to collaborators and institutions who need access to computational power.
 
 We are building our own supercomputing infrastructure while partnering with the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/) to provide immediate access to world-class HPC systems.
 
