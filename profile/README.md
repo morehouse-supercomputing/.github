@@ -21,6 +21,8 @@ Step-by-step guides for common HPC workflows:
 | Guide | Description |
 |-------|-------------|
 | [Jupyter on HPC](https://morehouse-supercomputing.github.io/jupyter-on-hpc/) | Run Jupyter notebooks on compute nodes |
+| [Jupyter via Tapis](https://morehouse-supercomputing.github.io/jupyter-on-tapis/) | Launch Jupyter on Vista through the Tapis web interface |
+| [GitHub on HPC](https://morehouse-supercomputing.github.io/github-on-hpc/) | Authenticate to GitHub and push from a compute node |
 | [Shared Folders on HPC](https://morehouse-supercomputing.github.io/shared-folders-on-hpc/) | Set up shared directories for classes and research teams |
 | [SQL on HPC](https://morehouse-supercomputing.github.io/sql-on-hpc/) | Query large databases on HPC with SQLite |
 | [HPC Python GPU Lab](https://github.com/morehouse-supercomputing/hpc-python-gpu) | Python and GPU computing on TACC's Analysis Portal |
