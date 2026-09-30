@@ -1,4 +1,4 @@
-# Welcome to the Morehouse Supercomputing Facility (MSCF)
+# Welcome to the Morehouse Supercomputing Facility (MSF)
 
 The **Morehouse Supercomputing Facility** is a high-performance computing center based at [Morehouse College](https://morehouse.edu) in Atlanta, GA. We provide HPC resources, training, and support to researchers, educators, and students -- with a focus on [Morehouse College](https://morehouse.edu) and the Atlanta University Center, and open to collaborators and institutions who need access to computational power.
 
@@ -10,7 +10,7 @@ Whether you're a faculty member integrating HPC into your coursework, a student 
 
 ## Getting Started
 
-New to MSCF? Start here:
+New to MSF? Start here:
 
 - **[Getting Started Guide](https://morehouse-supercomputing.github.io/mscf-getting-started/)** -- Create your account, set up MFA, log in via SSH, and submit your first job
 
@@ -29,7 +29,7 @@ Step-by-step guides for common HPC workflows:
 
 ## Systems
 
-MSCF researchers currently have access to:
+MSF researchers currently have access to:
 
 - **Vista** -- GPU-accelerated system
 - **Frontera** -- One of the most powerful academic supercomputers in the world
